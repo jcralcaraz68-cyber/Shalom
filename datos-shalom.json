@@ -1,0 +1,168 @@
+{
+  "groupName": "Shalom",
+  "myName": "Jesús de Nazaret",
+  "members": [
+    {
+      "id": "1787591109621",
+      "name": "Jesús de Nazaret",
+      "birth": "0001-12-25",
+      "phone": "",
+      "date": "2026-08-24",
+      "notes": "",
+      "photo": ""
+    },
+    {
+      "id": "1787591147398",
+      "name": "Yolanda Benítez Paloma",
+      "birth": "1969-10-19",
+      "phone": "",
+      "date": "2026-08-24",
+      "notes": "",
+      "photo": ""
+    },
+    {
+      "id": "1787591177382",
+      "name": "Juan Carlos Ruiz Alcaraz",
+      "birth": "1968-05-08",
+      "phone": "624733856",
+      "date": "2026-08-24",
+      "notes": "",
+      "photo": ""
+    },
+    {
+      "id": "1787591480296",
+      "name": "Luisa",
+      "birth": "",
+      "phone": "",
+      "date": "2026-08-24",
+      "notes": "",
+      "photo": ""
+    },
+    {
+      "id": "1787591502140",
+      "name": "Gregorio Chamorro",
+      "birth": "",
+      "phone": "",
+      "date": "2026-08-24",
+      "notes": "",
+      "photo": ""
+    }
+  ],
+  "chosenMemberId": "",
+  "weekEdits": {},
+  "prayerPartners": {
+    "2026-08-19": {
+      "1787591147398": "1787591480296",
+      "1787591177382": "1787591502140",
+      "1787591480296": "1787591147398",
+      "1787591502140": "1787591177382"
+    }
+  },
+  "catequesisNotes": {},
+  "vivamosNotes": {},
+  "fuerzaNotes": {},
+  "katPin": "1905",
+  "katUnlocked": {
+    "1": true
+  },
+  "vivUnlocked": {},
+  "fuerzaUnlocked": {},
+  "liturgicalMode": "auto",
+  "contentEdits": {
+    "camino": {
+      "1": {
+        "evangelio": "Mc 8,36 \n\"Pues, ¿de qué le sirve a un hombre ganar el mundo entero y perder su alma?\"\n",
+        "ejercicio": "Principio y Fundamento.\nLa primera parte del Principio y Fundamento de San Ignacio nos invita a descubrir que nuestra vida no es fruto del azar: Dios nos está creando continuamente y sosteniendo en cada instante por amor. Todo lo que somos y tenemos es un regalo suyo, y reconocerlo nos lleva a vivir desde la gratitud, no solo cuando sufrimos o perdemos algo. Dios no nos necesita, pero nos crea porque nos ama y nos llama a vivir unidos a Él; por eso nos invita a alabarle, hacerle reverencia y servirle, no para satisfacer una necesidad suya, sino porque esa relación con Él es nuestro verdadero bien. La pregunta profunda es si estamos viviendo nuestra vida desde esta conciencia: ¿reconozco que Dios me está dando la vida ahora mismo?, ¿busco descubrir su presencia en lo cotidiano?, ¿estoy poniendo toda mi vida al servicio de Dios y de los demás? El Principio y Fundamento nos recuerda que el sentido de nuestra existencia no está en nosotros mismos, sino en recibir el amor de Dios, responder a ese amor y vivir unidos a Él.",
+        "objetivo": "Descubrir que la vida tiene un sentido que va más allá de tener, hacer o aparentar.\nLos Padres de la Iglesia nos recuerdan que la vida no encuentra su sentido último en lo que tenemos, hacemos o mostramos, sino en aquello para lo que hemos sido creados: vivir unidos a Dios. San Agustín expresa esta búsqueda diciendo que nuestro corazón permanece inquieto hasta descansar en Dios. San Ireneo, por su parte, nos recuerda que la verdadera vida del ser humano consiste en vivir en comunión con Dios. Desde esta mirada, tener más, hacer más o aparentar más nunca puede llenar del todo el corazón. El verdadero sentido aparece cuando descubrimos que somos amados por Dios, que nuestra vida es un don y que estamos llamados a amar, servir y entregar nuestra vida. No se trata tanto de preguntarnos “¿qué tengo?” o “¿qué consigo?”, sino “¿para quién estoy viviendo?” y “¿en qué estoy convirtiendo mi vida?”"
+      }
+    },
+    "vivamos": {},
+    "fuerza": {}
+  },
+  "notes": [
+    {
+      "id": "1787592448010",
+      "title": "App Shalom",
+      "body": "Compartir aplicación",
+      "link": "",
+      "date": "2026-08-24T17:27:28.010Z"
+    }
+  ],
+  "peticiones": [
+    {
+      "id": "1787592373761",
+      "text": "Señor, ayúdanos a aceptar nuestras cruces, sin huir de las dificultades, confiando en que Tú caminas siempre a nuestro lado.",
+      "date": "2026-08-24T17:26:13.761Z"
+    },
+    {
+      "id": "1787592389947",
+      "text": "Señor, danos un corazón dispuesto a seguirte, aprendiendo a renunciar a nuestro egoísmo, nuestras seguridades y aquello que nos aleja de Ti.",
+      "date": "2026-08-24T17:26:29.947Z"
+    },
+    {
+      "id": "1787592407175",
+      "text": "Señor, enséñanos a descubrir el verdadero valor de nuestra vida, para que no busquemos ganar el mundo, sino vivir desde el amor, la entrega y el servicio a los demás.",
+      "date": "2026-08-24T17:26:47.175Z"
+    }
+  ],
+  "readings": {
+    "primera": {
+      "text": "Lectura del libro de Jeremías 20, 7-9\nMe sedujiste, Señor, y me dejé seducir;\nhas sido más fuerte que yo y me has podido.\nHe sido a diario el hazmerreír,\ntodo el mundo se burlaba de mí.\nCuando hablo, tengo que gritar,\nproclamar violencia y destrucción.\nLa palabra del Señor me ha servido\nde oprobio y desprecio a diario.\nPensé en olvidarme del asunto y dije:\n«No lo recordaré; no volveré a hablar en su nombre»;\npero había en mis entrañas como fuego,\nalgo ardiente encerrado en mis huesos.\nYo intentaba sofocarlo, y no podía.",
+      "ref": ""
+    },
+    "segunda": {
+      "text": "Lectura de la carta del apóstol san Pablo a los Romanos 12, 1-2\nOs exhorto, hermanos, por la misericordia de Dios, a que presentéis vuestros cuerpos como sacrificio vivo, santo, agradable a Dios; este es vuestro culto espiritual.\nY no os amoldéis a este mundo, sino transformaos por la renovación de la mente, para que sepáis discernir cuál es la voluntad de Dios, qué es lo bueno, lo que le agrada, lo perfecto.",
+      "ref": ""
+    },
+    "salmo": {
+      "text": "Salmo 62, 2. 3-4. 5-6. 8-9\n\n R/. Mi alma está sedienta de ti, Señor, Dios mío.\n\nOh, Dios, tú eres mi Dios,\npor ti madrugo,\nmi alma está sedienta de ti;\nmi carne tiene ansia de ti,\ncomo tierra reseca, agostada, sin agua. R/.\n\n¡Cómo te contemplaba en el santuario\nviendo tu fuerza y tu gloria!\nTu gracia vale más que la vida,\nte alabarán mis labios. R/.\n\nToda mi vida te bendeciré\ny alzaré las manos invocándote.\nMe saciaré como de enjundia y de manteca,\ny mis labios te alabarán jubilosos. R/.\n\nPorque fuiste mi auxilio,\ny a la sombra de tus alas canto con júbilo;\nmi alma está unida a ti,\ny tu diestra me sostiene. R/.",
+      "ref": ""
+    },
+    "evangelio": {
+      "text": "Lectura del santo evangelio según san Mateo 16, 21-27\nEn aquel tiempo, comenzó Jesús a manifestar a sus discípulos que tenía que ir a Jerusalén y padecer allí mucho por parte de los ancianos, sumos sacerdotes y escribas, y que tenía que ser ejecutado y resucitar al tercer día.\n\nPedro se lo llevó aparte y se puso a increparlo:\n«¡Lejos de ti tal cosa, Señor! Eso no puede pasarte».\n\nJesús se volvió y dijo a Pedro:\n«Ponte detrás de mí, Satanás! Eres para mí piedra de tropiezo, porque tú piensas como los hombres, no como Dios».\n\nEntonces dijo a los discípulos:\n«Si alguno quiere venir en pos de mí, que se niegue a sí mismo, tome su cruz y me siga.\n\nPorque quien quiera salvar su vida, la perderá; pero el que la pierda por mí, la encontrará.\n\n¿Pues de qué le servirá a un hombre ganar el mundo entero, si pierde su alma? ¿O qué podrá dar para recobrarla?\n\nPorque el Hijo del hombre vendrá, con la gloria de su Padre, entre sus ángeles, y entonces pagará a cada uno según su conducta.»",
+      "ref": ""
+    }
+  },
+  "keywords": [
+    {
+      "id": "1787592286867",
+      "text": "CRUZ ✝️ — aceptar el camino de Jesús, incluso cuando implica renuncia y dificultad.",
+      "date": "2026-08-24T17:24:46.867Z"
+    },
+    {
+      "id": "1787592306255",
+      "text": "SEGUIMIENTO 👣 — dejar que Jesús sea el centro y caminar detrás de Él, poniendo la vida en sus manos.",
+      "date": "2026-08-24T17:25:06.255Z"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1787592335229",
+      "text": "Este Evangelio nos recuerda que seguir a Jesús no significa buscar una vida sin dificultades, sino aprender a caminar con Él también en la cruz. A veces queremos controlar nuestra vida, evitar el sufrimiento o poner nuestras seguridades por delante, pero Jesús nos invita a confiar y a entregarnos. La verdadera vida no está en conservarlo todo, sino en descubrir que, cuando nos entregamos a Él, encontramos lo que realmente importa.",
+      "date": "2026-08-24T17:25:35.229Z"
+    }
+  ],
+  "conclusions": [],
+  "emotionVotes": {},
+  "spiritVotes": {},
+  "weeklyMemory": {},
+  "calNotes": {},
+  "preguntaVital": "¿Qué cruz o dificultad de mi vida estoy intentando evitar, cuando Jesús me invita a afrontarla confiando en Él?\n\n¿Qué estoy poniendo por delante de Jesús —mis seguridades, mis proyectos, mi comodidad, el reconocimiento de los demás— y qué tendría que soltar para seguirle de verdad?",
+  "calMonth": 7,
+  "calYear": 2026,
+  "asistencia": {},
+  "githubJsonUrl": "https://jcralcaraz68-cyber.github.io/Shalom/datos-shalom.json",
+  "liturgy": {
+    "gospel": {
+      "ref": "Jn 15,9-17",
+      "title": "Permaneced en mi amor",
+      "text": "En aquel tiempo, dijo Jesús a sus discípulos: «Como el Padre me ha amado, así os he amado yo; permaneced en mi amor. Si guardáis mis mandamientos, permaneceréis en mi amor, lo mismo que yo he guardado los mandamientos de mi Padre. Os he dicho esto para que mi alegría esté en vosotros, y vuestra alegría sea perfecta. Este es mi mandamiento: que os améis unos a otros como yo os he amado.»"
+    },
+    "psalm": {
+      "ref": "Sal 117",
+      "antiphon": "Alabad al Señor porque es bueno.",
+      "text": "Dad gracias al Señor porque es bueno,\nporque es eterna su misericordia."
+    },
+    "sunday": "2026-08-22T22:00:00.000Z"
+  }
+}
