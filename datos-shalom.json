@@ -96,6 +96,10 @@
       {
         "title": "Infografía Presentación",
         "url": "https://drive.google.com/file/d/1ErWPlY6DufWQkw56YDPwOqdZ79C1IDko/view?usp=sharing"
+      },
+      {
+        "title": "Cuestionario",
+        "url": "https://notebook.google.com/notebook/b5235e64-db4e-47ff-9a95-8d7d1be447f5?authuser=2"
       }
     ]
   },
@@ -192,15 +196,15 @@
   "githubJsonUrl": "https://jcralcaraz68-cyber.github.io/Shalom/datos-shalom.json",
   "liturgy": {
     "gospel": {
-      "ref": "Mc 1,14-20",
-      "title": "La llamada de los primeros discípulos",
-      "text": "Jesús fue a Galilea a proclamar el Evangelio de Dios. Decía: «Se ha cumplido el plazo, el reino de Dios está cerca; convertíos y creed en el Evangelio.» Pasando junto al lago vio a Simón y a Andrés echando las redes. Les dijo: «Venid detrás de mí, y os haré pescadores de hombres.» Inmediatamente dejaron las redes y lo siguieron."
+      "ref": "Jn 6,51-58",
+      "title": "El pan de vida",
+      "text": "Jesús dijo: «Yo soy el pan vivo que ha bajado del cielo; el que coma de este pan vivirá para siempre. El que come mi carne y bebe mi sangre tiene vida eterna, y yo lo resucitaré en el último día. Mi carne es verdadera comida y mi sangre verdadera bebida.»"
     },
     "psalm": {
-      "ref": "Sal 22",
-      "antiphon": "El Señor es mi pastor, nada me falta.",
-      "text": "El Señor es mi pastor, nada me falta:\nen verdes praderas me hace recostar."
+      "ref": "Sal 33",
+      "antiphon": "Gustad y ved qué bueno es el Señor.",
+      "text": "Bendigo al Señor en todo momento,\nsu alabanza está siempre en mi boca."
     },
-    "sunday": "2026-08-29T22:00:00.000Z"
+    "sunday": "2026-09-05T22:00:00.000Z"
   }
 }
