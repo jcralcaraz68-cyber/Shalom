@@ -171,37 +171,30 @@
       ]
     }
   },
-  "vivamosNotes": {},
+  "vivamosNotes": {
+    "1": {
+      "notas": "",
+      "conclusiones": "",
+      "materialLinks": [
+        {
+          "title": "Vivamos para el Señor",
+          "url": "https://drive.google.com/file/d/1JkRDyE98_mDEqh_JyCdKnn-0AJaAOHky/view?usp=sharing"
+        }
+      ]
+    }
+  },
   "fuerzaNotes": {},
   "katPin": "1905",
   "catPresentation": {
     "title": "Presentación Catequesis año 2026 - 2027",
-    "text": "",
+    "text": "El Señor a estado grando",
     "linkTitle": "",
     "linkUrl": "",
-    "links": [
-      {
-        "title": "Audio Presentación",
-        "url": "https://drive.google.com/file/d/1TScaMZ9VeGY_9aA73ohnpB44-rWXUPU6/view?usp=sharing"
-      },
-      {
-        "title": "Vídeo Presentación",
-        "url": "https://drive.google.com/file/d/1I2uUiRGpPfd2Ezf7okR5jrUAsp1XoLvi/view?usp=sharing"
-      },
-      {
-        "title": "Infografía Presentación",
-        "url": "https://drive.google.com/file/d/1ErWPlY6DufWQkw56YDPwOqdZ79C1IDko/view?usp=sharing"
-      },
-      {
-        "title": "Cuestionario",
-        "url": "https://notebook.google.com/notebook/b5235e64-db4e-47ff-9a95-8d7d1be447f5?authuser=2"
-      }
-    ]
+    "links": []
   },
   "katUnlocked": {},
   "vivUnlocked": {
-    "1": true,
-    "2": true
+    "1": true
   },
   "fuerzaUnlocked": {},
   "liturgicalMode": "ordinario",
@@ -213,7 +206,12 @@
         "objetivo": "Descubrir que la vida tiene un sentido que va más allá de tener, hacer o aparentar.\nLos Padres de la Iglesia nos recuerdan que la vida no encuentra su sentido último en lo que tenemos, hacemos o mostramos, sino en aquello para lo que hemos sido creados: vivir unidos a Dios. San Agustín expresa esta búsqueda diciendo que nuestro corazón permanece inquieto hasta descansar en Dios. San Ireneo, por su parte, nos recuerda que la verdadera vida del ser humano consiste en vivir en comunión con Dios. Desde esta mirada, tener más, hacer más o aparentar más nunca puede llenar del todo el corazón. El verdadero sentido aparece cuando descubrimos que somos amados por Dios, que nuestra vida es un don y que estamos llamados a amar, servir y entregar nuestra vida. No se trata tanto de preguntarnos “¿qué tengo?” o “¿qué consigo?”, sino “¿para quién estoy viviendo?” y “¿en qué estoy convirtiendo mi vida?”"
       }
     },
-    "vivamos": {},
+    "vivamos": {
+      "1": {
+        "dynamic": "Llevar cada uno de los miembros de la comunidad esta Palabra a la Oración.",
+        "ref": "Romanos 1,1-7\n\n1Pablo, siervo de Cristo Jesús, llamado a ser apóstol, escogido para el Evangelio de Dios, 2que fue prometido por sus profetas en las Escrituras Santas 3y se refiere a su Hijo, nacido de la estirpe de David según la carne, 4constituido Hijo de Dios en poder según el Espíritu de santidad por la resurrección de entre los muertos: Jesucristo nuestro Señor. 5Por él hemos recibido la gracia del apostolado, para suscitar la obediencia de la fe entre todos los gentiles, para gloria de su nombre. 6Entre ellos os encontráis también vosotros, llamados de Jesucristo. 7A todos los que están en Roma, amados de Dios, llamados santos, gracia y paz de Dios nuestro Padre y del Señor Jesucristo. \n"
+      }
+    },
     "fuerza": {}
   },
   "notes": [],
@@ -318,15 +316,15 @@
   "asistencia": {},
   "liturgy": {
     "gospel": {
-      "ref": "Jn 6,51-58",
-      "title": "El pan de vida",
-      "text": "Jesús dijo: «Yo soy el pan vivo que ha bajado del cielo; el que coma de este pan vivirá para siempre. El que come mi carne y bebe mi sangre tiene vida eterna, y yo lo resucitaré en el último día. Mi carne es verdadera comida y mi sangre verdadera bebida.»"
+      "ref": "Lc 10,25-37",
+      "title": "El buen samaritano",
+      "text": "Un letrado preguntó a Jesús: «¿Qué tengo que hacer para heredar la vida eterna?» Jesús le dijo: «Amarás al Señor tu Dios con todo tu corazón y a tu prójimo como a ti mismo.» El letrado preguntó: «¿Y quién es mi prójimo?»"
     },
     "psalm": {
-      "ref": "Sal 33",
-      "antiphon": "Gustad y ved qué bueno es el Señor.",
-      "text": "Bendigo al Señor en todo momento,\nsu alabanza está siempre en mi boca."
+      "ref": "Sal 62",
+      "antiphon": "Mi alma está sedienta de ti, Señor.",
+      "text": "Oh Dios, tú eres mi Dios, por ti madrugo,\nmi alma está sedienta de ti."
     },
-    "sunday": "2026-09-05T22:00:00.000Z"
+    "sunday": "2026-09-12T22:00:00.000Z"
   }
 }
