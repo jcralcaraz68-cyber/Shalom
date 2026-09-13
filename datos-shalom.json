@@ -179,6 +179,10 @@
         {
           "title": "Vivamos para el Señor",
           "url": "https://drive.google.com/file/d/1JkRDyE98_mDEqh_JyCdKnn-0AJaAOHky/view?usp=sharing"
+        },
+        {
+          "title": "Amados de Dios",
+          "url": "https://drive.google.com/file/d/1HR2EO0FmcsIXYRfXF0Vv215XbRZNxjPD/view?usp=sharing"
         }
       ]
     }
@@ -214,64 +218,62 @@
     },
     "fuerza": {}
   },
-  "notes": [],
+  "notes": [
+    {
+      "id": "1789287365068",
+      "title": "Comunidad Shalom",
+      "body": "Reunión el Lunes 14-09-2026 a las 20.30",
+      "link": "",
+      "date": "2026-09-13T08:16:05.068Z"
+    }
+  ],
   "peticiones": [
     {
-      "id": "1788721391365",
-      "text": "Señor, danos humildad para mirar primero nuestro propio corazón antes de juzgar o corregir a los demás.",
-      "date": "2026-09-06T19:03:11.365Z"
+      "id": "1789287389726",
+      "text": "Señor, líbranos de compararnos con los demás y ayúdanos a agradecer lo que cada día recibimos de Ti.",
+      "date": "2026-09-13T08:16:29.726Z"
     },
     {
-      "id": "1788721416684",
-      "text": "Señor, enséñanos a perdonar y reconciliarnos, buscando siempre recuperar al hermano y no alejarnos de él.",
-      "date": "2026-09-06T19:03:36.684Z"
+      "id": "1789287405799",
+      "text": "Señor, danos un corazón humilde, capaz de alegrarse cuando otro recibe amor, reconocimiento o una nueva oportunidad.",
+      "date": "2026-09-13T08:16:45.799Z"
     },
     {
-      "id": "1788721436489",
-      "text": "Señor, permanece en medio de nuestra comunidad, para que nuestras palabras, decisiones y relaciones estén guiadas por tu amor y no por el orgullo.",
-      "date": "2026-09-06T19:03:56.489Z"
+      "id": "1789287422411",
+      "text": "Señor, enséñanos a confiar en tu bondad, sabiendo que tu amor no se gana por méritos, sino que es un regalo gratuito.",
+      "date": "2026-09-13T08:17:02.411Z"
     }
   ],
   "readings": {
     "primera": {
-      "text": "Lectura del libro del Eclesiástico 27, 30 – 28, 7\nRencor e ira también son detestables,\nel pecador los posee.\nEl vengativo sufrirá la venganza del Señor,\nque llevará cuenta exacta de sus pecados.\nPerdona la ofensa a tu prójimo\ny, cuando reces, tus pecados te serán perdonados.\nSi un ser humano alimenta la ira contra otro,\n¿cómo puede esperar la curación del Señor?\nSi no se compadece de su semejante,\n¿cómo pide perdón por sus propios pecados?\nSi él, simple mortal, guarda rencor,\n¿quién perdonará sus pecados?\nPiensa en tu final y deja de odiar,\nacuérdate de la corrupción y de la muerte\ny sé fiel a los mandamientos.\nAcuérdate de los mandamientos\ny no guardes rencor a tu prójimo;\nacuérdate de la alianza del Altísimo\ny pasa por alto la ofensa.",
+      "text": "Primera lectura\nLectura del libro de Isaías 55, 6-9\nBuscad al Señor mientras se deja encontrar,\ninvocadlo mientras está cerca.\nQue el malvado abandone su camino,\ny el malhechor sus planes;\nque se convierta al Señor, y él tendrá piedad,\na nuestro Dios, que es rico en perdón.\nPorque mis planes no son vuestros planes,\nvuestros caminos no son mis caminos\n—oráculo del Señor—.\nCuanto dista el cielo de la tierra,\nasí distan mis caminos de los vuestros,\ny mis planes de vuestros planes.",
       "ref": ""
     },
     "segunda": {
-      "text": "Lectura de la carta del apóstol san Pablo a los Romanos 14, 7-9\nHermanos:\nNinguno de nosotros vive para sí mismo y ninguno muere para sí mismo.\n\nSi vivimos, vivimos para el Señor; si morimos, morimos para el Señor; así que, ya vivamos ya muramos, somos del Señor.\n\nPues para esto murió y resucitó Cristo: para ser Señor de muertos y vivos.",
+      "text": "Segunda lectura\nLectura de la carta del apóstol san Pablo a los Filipenses 1, 20c-24. 27a\nHermanos:\nCristo será glorificado en mi cuerpo, por mi vida o por mi muerte.\nPara mí la vida es Cristo y el morir una ganancia. Pero, si el vivir esta vida mortal me supone trabajo fructífero, no sé qué escoger.\nMe encuentro en esta alternativa: por un lado, deseo partir para estar con Cristo, que es con mucho lo mejor; pero, por otro, quedarme en esta vida veo que es más necesario para vosotros.\nLo importante es que vosotros llevéis una vida digna del Evangelio de Cristo.",
       "ref": ""
     },
     "salmo": {
-      "text": "Salmo 102, 1-2. 3-4. 9-10. 11-12\n\n R/. El Señor es compasivo y misericordioso, lento a la ira y rico en clemencia.\n\nBendice, alma mía, al Señor,\ny todo mi ser a su santo nombre.\nBendice, alma mía, al Señor,\ny no olvides sus beneficios. R/.\n\nÉl perdona todas tus culpas\ny cura todas tus enfermedades;\nél rescata tu vida de la fosa,\ny te colma de gracia y de ternura. R/.\n\nNo está siempre acusando\nni guarda rencor perpetuo;\nno nos trata como merecen nuestros pecados\nni nos paga según nuestras culpa. R/.\n\nComo se levanta el cielo sobre la tierra,\nse levanta su bondad sobre los que lo temen;\ncomo dista el oriente del ocaso,\nasí aleja de nosotros nuestros delitos. R/.",
+      "text": "Salmo 144, 2-3. 8-9. 17-18 \n\nR/. Cerca está el Señor de los que lo invocan.\nDía tras día, te bendeciré\ny alabaré tu nombre por siempre jamás.\nGrande es el Señor, merece toda alabanza,\nes incalculable su grandeza. R/.\n\nEl Señor es clemente y misericordioso,\nlento a la cólera y rico en piedad;\nel Señor es bueno con todos,\nes cariñoso con todas sus criaturas. R/.\n\nEl Señor es justo en todos sus caminos,\nes bondadoso en todas sus acciones.\nCerca está el Señor de los que lo invocan,\nde los que lo invocan sinceramente. R/.",
       "ref": ""
     },
     "evangelio": {
-      "text": "Lectura del santo evangelio según san Mateo 18, 21-35\nEn aquel tiempo, acercándose Pedro a Jesús le preguntó:\n«Señor, si mi hermano me ofende, ¿cuántas veces tengo que perdonarlo? ¿Hasta siete veces?».\n\nJesús le contesta:\n«No te digo hasta siete veces, sino hasta setenta veces siete. Por esto, se parece el reino de los cielos a un rey que quiso ajustar las cuentas con sus criados. Al empezar a ajustarlas, le presentaron uno que debía diez mil talentos. Como no tenía con qué pagar, el señor mandó que lo vendieran a él con su mujer y sus hijos y todas sus posesiones, y que pagara así. El criado, arrojándose a sus pies, le suplicaba diciendo:\n“Ten paciencia conmigo y te lo pagaré todo”.\n\nSe compadeció el señor de aquel criado y lo dejó marchar, perdonándole la deuda.\n\nPero al salir, el criado aquel encontró a uno de sus compañeros que le debía cien denarios y, agarrándolo, lo estrangulaba diciendo:\n“Págame lo que me debes”.\n\nEl compañero, arrojándose a sus pies, le rogaba diciendo:\n“Ten paciencia conmigo y te lo pagaré”.\n\nPero él se negó y fue y lo metió en la cárcel hasta que pagara lo que debía.\n\nSus compañeros, al ver lo ocurrido, quedaron consternados y fueron a contarle a su señor todo lo sucedido.\n\nEntonces el señor lo llamó y le dijo:\n“¡Siervo malvado! Toda aquella deuda te la perdoné porque me lo rogaste ¿no debías tener tú también compasión de un compañero, como yo tuve compasión de ti?”.\n\nY el señor, indignado, lo entregó a los verdugos hasta que pagara toda la deuda.\n\nLo mismo hará con vosotros mi Padre celestial, si cada cual no perdona de corazón a su hermano».",
+      "text": "Lectura del santo evangelio según san Mateo 20, 1-16\nEn aquel tiempo, dijo Jesús a sus discípulos esta parábola:\n«El reino de los cielos se parece a un propietario que al amanecer salió a contratar jornaleros para su viña. Después de ajustarse con ellos en un denario por jornada, los mandó a la viña.\nSalió otra vez a media mañana, vio a otros que estaban en la plaza sin trabajo y les dijo:\n“Id también vosotros a mi viña y os pagaré lo debido».\nEllos fueron.\nSalió de nuevo hacia mediodía y a media tarde, e hizo lo mismo.\nSalió al caer la tarde y encontró a otros, parados, y les dijo:\n“Cómo es que estáis aquí el día entero sin trabajar?”.\nLe respondieron:\n“Nadie nos ha contratado”.\nÉl les dijo:\n“Id también vosotros a mi viña».\nCuando oscureció, el dueño dijo al capataz:\n“Llama a los jornaleros y págales el jornal, empezando por los últimos y acabando por los primeros”.\nVinieron los del atardecer y recibieron un denario cada uno. Cuando llegaron los primeros, pensaban que recibirían más, pero ellos también recibieron un denario cada uno. Al recibirlo se pusieron a protestar contra el amo:\n“Estos últimos han trabajado solo una hora y los has tratado igual que a nosotros, que hemos aguantado el peso del día y el bochorno”.\nÉl replicó a uno de ellos:\n“Amigo, no te hago ninguna injusticia. ¿No nos ajustamos en un denario? Toma lo tuyo y vete. Quiero darle a este último igual que a ti. ¿Es que no tengo libertad para hacer lo que quiera en mis asuntos? ¿O vas a tener tú envidia porque yo soy bueno?”.\nAsí, los últimos serán primeros y los primeros, últimos».",
       "ref": ""
     }
   },
   "keywords": [
     {
-      "id": "1788721330986",
-      "text": "PERDÓN — no como olvido de la herida, sino como camino hacia la libertad interior.",
-      "date": "2026-09-06T19:02:10.986Z"
-    },
-    {
-      "id": "1788806783562",
-      "text": "Misericordia",
-      "date": "2026-09-07T18:46:23.562Z"
+      "id": "1789287275052",
+      "text": "GRACIA — Dios nos da mucho más de lo que merecemos.",
+      "date": "2026-09-13T08:14:35.052Z"
     }
   ],
   "comments": [
     {
-      "id": "1788721277539",
-      "text": "Los Padres del Desierto entendían que el resentimiento puede convertirse en una prisión interior. Cuando alguien nos hiere, podemos quedar atados a esa persona mediante la rabia, el deseo de que pague por lo que hizo o la necesidad de que reconozca nuestro dolor. Jesús nos propone otro camino: perdonar no porque la ofensa no importe, sino porque nuestra libertad importa más.\n\nPedro pregunta cuántas veces debe perdonar, como si existiera un límite. Jesús rompe esa lógica: «setenta veces siete». El perdón cristiano no se mide con una cuenta, porque nace de reconocer primero cuánto hemos sido perdonados nosotros. La parábola nos recuerda que hemos recibido una misericordia que no podemos devolver, y precisamente por eso estamos llamados a ofrecer misericordia.\n\nPara los Padres del Desierto, perdonar es también un combate espiritual. No significa permitir el abuso ni negar el daño sufrido. Significa no dejar que el mal recibido termine viviendo dentro de nosotros. Podemos poner límites, alejarnos de quien nos hace daño y, al mismo tiempo, pedir a Dios la gracia de no alimentar odio.\n\nPerdonar es dejar de entregar al otro el poder de seguir gobernando nuestro corazón.",
-      "date": "2026-09-06T19:01:17.539Z"
-    },
-    {
-      "id": "1788806819659",
-      "text": "Hola",
-      "date": "2026-09-07T18:46:59.659Z"
+      "id": "1789286956290",
+      "text": "Los Padres del Desierto nos recuerdan que muchas veces sufrimos no por lo que tenemos, sino por compararnos con los demás. Los trabajadores de la primera hora reciben lo mismo que los últimos y sienten que han recibido menos. El problema no está en lo que han recibido, sino en mirar al otro y comparar su recompensa con la propia.\n\nDios no nos ama según nuestros méritos ni según el tiempo que llevemos trabajando para Él. Su amor es gracia y regalo. El Evangelio nos invita a abandonar la comparación, la exigencia y la envidia, para aprender a alegrarnos por el bien que Dios hace en los demás.",
+      "date": "2026-09-13T08:09:16.290Z"
     }
   ],
   "conclusions": [],
@@ -303,15 +305,28 @@
       "emotionSummary": "",
       "spiritSummary": "",
       "archivedAt": "2026-09-06T18:56:54.478Z"
+    },
+    "2026-09-09": {
+      "keywords": [
+        "PERDÓN — no como olvido de la herida, sino como camino hacia la libertad interior.",
+        "Misericordia"
+      ],
+      "comments": [
+        "Los Padres del Desierto entendían que el resentimiento puede convertirse en una prisión interior. Cuando alguien nos hiere, podemos quedar atados a esa persona mediante la rabia, el deseo de que pague por lo que hizo o la necesidad de que reconozca nuestro dolor. Jesús nos propone otro camino: perdonar no porque la ofensa no importe, sino porque nuestra libertad importa más.\n\nPedro pregunta cuántas veces debe perdonar, como si existiera un límite. Jesús rompe esa lógica: «setenta veces siete». El perdón cristiano no se mide con una cuenta, porque nace de reconocer primero cuánto hemos sido perdonados nosotros. La parábola nos recuerda que hemos recibido una misericordia que no podemos devolver, y precisamente por eso estamos llamados a ofrecer misericordia.\n\nPara los Padres del Desierto, perdonar es también un combate espiritual. No significa permitir el abuso ni negar el daño sufrido. Significa no dejar que el mal recibido termine viviendo dentro de nosotros. Podemos poner límites, alejarnos de quien nos hace daño y, al mismo tiempo, pedir a Dios la gracia de no alimentar odio.\n\nPerdonar es dejar de entregar al otro el poder de seguir gobernando nuestro corazón.",
+        "Hola"
+      ],
+      "emotionSummary": "",
+      "spiritSummary": "",
+      "archivedAt": "2026-09-13T08:04:11.863Z"
     }
   },
   "calNotes": {},
-  "preguntaVital": "¿A quién sigo llevando dentro de mí por una herida que todavía no he conseguido perdonar? //  \n¿Qué me cuesta más: perdonar al otro o aceptar que yo también necesito profundamente la misericordia de Dios?",
-  "calMonth": 7,
-  "calYear": 2026,
+  "preguntaVital": "¿Con quién me estoy comparando y qué me está haciendo sentir esa comparación? // ¿Puedo aceptar que Dios me ama y me da lo que necesito, aunque su manera de actuar no coincida con lo que yo esperaba?",
   "weeklyPrayer": "",
   "oracionLinks": [],
   "githubJsonUrl": "https://jcralcaraz68-cyber.github.io/Shalom/datos-shalom.json",
+  "calMonth": 7,
+  "calYear": 2026,
   "weekEdits": {},
   "asistencia": {},
   "liturgy": {
