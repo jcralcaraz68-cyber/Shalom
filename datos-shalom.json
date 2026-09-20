@@ -196,6 +196,24 @@
       "1789412750303": "1788892050327",
       "1789412823839": "1787591502140",
       "1789412874197": "1788892354711"
+    },
+    "2026-09-16": {
+      "1787591147398": "1787591480296",
+      "1787591177382": "1788891788280",
+      "1787591480296": "1788892302877",
+      "1787591502140": "1788892162955",
+      "1788891752228": "1788891942118",
+      "1788891788280": "1789412874197",
+      "1788891942118": "1789412750303",
+      "1788892014357": "1787591177382",
+      "1788892050327": "1788892354711",
+      "1788892119915": "1787591147398",
+      "1788892162955": "1788892119915",
+      "1788892302877": "1789412823839",
+      "1788892354711": "1787591502140",
+      "1789412750303": "1788892050327",
+      "1789412823839": "1788892014357",
+      "1789412874197": "1788891752228"
     }
   },
   "catequesisNotes": {
@@ -263,62 +281,54 @@
     },
     "fuerza": {}
   },
-  "notes": [
-    {
-      "id": "1789287365068",
-      "title": "Comunidad Shalom",
-      "body": "Reunión el Lunes 14-09-2026 a las 20.30",
-      "link": "",
-      "date": "2026-09-13T08:16:05.068Z"
-    }
-  ],
+  "notes": [],
   "peticiones": [
     {
-      "id": "1789287389726",
-      "text": "Señor, líbranos de compararnos con los demás y ayúdanos a agradecer lo que cada día recibimos de Ti.",
-      "date": "2026-09-13T08:16:29.726Z"
+      "id": "1789924011979",
+      "text": "Señor, danos un corazón humilde, capaz de reconocer nuestros errores y cambiar de camino cuando sea necesario. Roguemos al Señor",
+      "date": "2026-09-20T17:06:51.979Z"
     },
     {
-      "id": "1789287405799",
-      "text": "Señor, danos un corazón humilde, capaz de alegrarse cuando otro recibe amor, reconocimiento o una nueva oportunidad.",
-      "date": "2026-09-13T08:16:45.799Z"
+      "id": "1789924034703",
+      "text": "Señor, ayúdanos como comunidad a pasar de las palabras a los hechos, sirviendo y acompañando a quienes más lo necesitan. Roguemos al Señor",
+      "date": "2026-09-20T17:07:14.703Z"
     },
     {
-      "id": "1789287422411",
-      "text": "Señor, enséñanos a confiar en tu bondad, sabiendo que tu amor no se gana por méritos, sino que es un regalo gratuito.",
-      "date": "2026-09-13T08:17:02.411Z"
+      "id": "1789924059367",
+      "text": "Señor, danos un corazón abierto a la conversión, para que nunca pensemos que ya hemos llegado, sino que sigamos buscando cada día tu voluntad. Roguemos al Señor.",
+      "date": "2026-09-20T17:07:39.367Z"
     }
   ],
   "readings": {
     "primera": {
-      "text": "Primera lectura\nLectura del libro de Isaías 55, 6-9\nBuscad al Señor mientras se deja encontrar,\ninvocadlo mientras está cerca.\nQue el malvado abandone su camino,\ny el malhechor sus planes;\nque se convierta al Señor, y él tendrá piedad,\na nuestro Dios, que es rico en perdón.\nPorque mis planes no son vuestros planes,\nvuestros caminos no son mis caminos\n—oráculo del Señor—.\nCuanto dista el cielo de la tierra,\nasí distan mis caminos de los vuestros,\ny mis planes de vuestros planes.",
+      "text": "Lectura de la profecía de Ezequiel 18, 25-28\nEsto dice el Señor:\n«Insistís: “No es justo el proceder del Señor”. Escuchad, casa de Israel: ¿Es injusto mi proceder? ¿No es más bien vuestro proceder el que es injusto?\nCuando el inocente se aparta de su inocencia, comete la maldad y muere, muere por la maldad que cometió.\nY cuando el malvado se convierte de la maldad que hizo y practica el derecho y la justicia, él salva su propia vida. Si recapacita y se convierte de los delitos cometidos, ciertamente vivirá y no morirá».",
       "ref": ""
     },
     "segunda": {
-      "text": "Segunda lectura\nLectura de la carta del apóstol san Pablo a los Filipenses 1, 20c-24. 27a\nHermanos:\nCristo será glorificado en mi cuerpo, por mi vida o por mi muerte.\nPara mí la vida es Cristo y el morir una ganancia. Pero, si el vivir esta vida mortal me supone trabajo fructífero, no sé qué escoger.\nMe encuentro en esta alternativa: por un lado, deseo partir para estar con Cristo, que es con mucho lo mejor; pero, por otro, quedarme en esta vida veo que es más necesario para vosotros.\nLo importante es que vosotros llevéis una vida digna del Evangelio de Cristo.",
+      "text": "Lectura de la carta del apóstol san Pablo a los Filipenses 2, 1-11\nHermanos:\nSi queréis darme el consuelo de Cristo y aliviarme con vuestro amor, si nos une el mismo Espíritu y tenéis entrañas compasivas, dadme esta gran alegría: manteneos unánimes y concordes con un mismo amor y un mismo sentir.\nNo obréis por rivalidad ni por ostentación, considerando por la humildad a los demás superiores a vosotros. No os encerréis en vuestros intereses, sino buscad todos el interés de los demás.\nTened entre vosotros los sentimientos propios de Cristo Jesús.\nEl cual, siendo de condición divina,\nno retuvo ávidamente el ser igual a Dios;\nal contrario, se despojó de sí mismo\ntomando la condición de esclavo,\nhecho semejante a los hombres.\nY así, reconocido como hombre por su presencia,\nse humilló a sí mismo, hecho obediente hasta la muerte, y una muerte de cruz.\nPor eso Dios lo exaltó sobre todo y le concedió el Nombre-sobre-todo-nombre;\nde modo que al nombre de Jesús toda rodilla se doble\nen el cielo, en la tierra, en el abismo, y toda lengua proclame:\nJesucristo es Señor,\npara gloria de Dios Padre.",
       "ref": ""
     },
     "salmo": {
-      "text": "Salmo 144, 2-3. 8-9. 17-18 \n\nR/. Cerca está el Señor de los que lo invocan.\nDía tras día, te bendeciré\ny alabaré tu nombre por siempre jamás.\nGrande es el Señor, merece toda alabanza,\nes incalculable su grandeza. R/.\n\nEl Señor es clemente y misericordioso,\nlento a la cólera y rico en piedad;\nel Señor es bueno con todos,\nes cariñoso con todas sus criaturas. R/.\n\nEl Señor es justo en todos sus caminos,\nes bondadoso en todas sus acciones.\nCerca está el Señor de los que lo invocan,\nde los que lo invocan sinceramente. R/.",
+      "text": "Salmo 24, 4bc-5. 6-7. 8-9\n\nR/. Recuerda, Señor, tu ternura\n\nSeñor, enséñame tus caminos,\ninstrúyeme en tus sendas:\nhaz que camine con lealtad;\nenséñame, porque tú eres mi Dios y Salvador,\ny todo el día te estoy esperando. R/.\n\nRecuerda, Señor, que tu ternura\ny tu misericordia son eternas;\nno te acuerdes de los pecados\nni de las maldades de mi juventud;\nacuérdate de mí con misericordia,\npor tu bondad, Señor. R/.\n\nEl Señor es bueno y es recto,\ny enseña el camino a los pecadores;\nhace caminar a los humildes con rectitud,\nenseña su camino a los humildes. R/.",
       "ref": ""
     },
     "evangelio": {
-      "text": "Lectura del santo evangelio según san Mateo 20, 1-16\nEn aquel tiempo, dijo Jesús a sus discípulos esta parábola:\n«El reino de los cielos se parece a un propietario que al amanecer salió a contratar jornaleros para su viña. Después de ajustarse con ellos en un denario por jornada, los mandó a la viña.\nSalió otra vez a media mañana, vio a otros que estaban en la plaza sin trabajo y les dijo:\n“Id también vosotros a mi viña y os pagaré lo debido».\nEllos fueron.\nSalió de nuevo hacia mediodía y a media tarde, e hizo lo mismo.\nSalió al caer la tarde y encontró a otros, parados, y les dijo:\n“Cómo es que estáis aquí el día entero sin trabajar?”.\nLe respondieron:\n“Nadie nos ha contratado”.\nÉl les dijo:\n“Id también vosotros a mi viña».\nCuando oscureció, el dueño dijo al capataz:\n“Llama a los jornaleros y págales el jornal, empezando por los últimos y acabando por los primeros”.\nVinieron los del atardecer y recibieron un denario cada uno. Cuando llegaron los primeros, pensaban que recibirían más, pero ellos también recibieron un denario cada uno. Al recibirlo se pusieron a protestar contra el amo:\n“Estos últimos han trabajado solo una hora y los has tratado igual que a nosotros, que hemos aguantado el peso del día y el bochorno”.\nÉl replicó a uno de ellos:\n“Amigo, no te hago ninguna injusticia. ¿No nos ajustamos en un denario? Toma lo tuyo y vete. Quiero darle a este último igual que a ti. ¿Es que no tengo libertad para hacer lo que quiera en mis asuntos? ¿O vas a tener tú envidia porque yo soy bueno?”.\nAsí, los últimos serán primeros y los primeros, últimos».",
+      "text": "Lectura del santo evangelio según san Mateo 21, 28-32\nEn aquel tiempo, dijo Jesús a los sumos sacerdotes y a los ancianos del pueblo:\n«¿Qué os parece? Un hombre tenía dos hijos. Se acercó al primero y le dijo: “Hijo, ve hoy a trabajar en la viña”. Él le contestó: “No quiero». Pero después se arrepintió y fue.\nSe acercó al segundo y le dijo lo mismo. Él le contestó: “Voy, señor”. Pero no fue.\n¿Quién de los dos cumplió la voluntad de su padre?».\nContestaron:\n«El primero».\nJesús les dijo:\n«En verdad os digo que los publicanos y las prostitutas van por delante de vosotros en el reino de Dios. Porque vino Juan a vosotros enseñándoos el camino de la justicia y no le creísteis; en cambio, los publicanos y prostitutas le creyeron. Y, aun después de ver esto, vosotros no os arrepentisteis ni le creísteis».",
       "ref": ""
     }
   },
   "keywords": [
     {
-      "id": "1789287275052",
-      "text": "GRACIA — Dios nos da mucho más de lo que merecemos.",
-      "date": "2026-09-13T08:14:35.052Z"
+      "id": "1789924231775",
+      "text": "\"CONVERSIÓN — reconocer, volver a Dios y poner en práctica su voluntad.\"",
+      "date": "2026-09-20T17:10:31.775Z"
     }
   ],
   "comments": [
     {
-      "id": "1789286956290",
-      "text": "Los Padres del Desierto nos recuerdan que muchas veces sufrimos no por lo que tenemos, sino por compararnos con los demás. Los trabajadores de la primera hora reciben lo mismo que los últimos y sienten que han recibido menos. El problema no está en lo que han recibido, sino en mirar al otro y comparar su recompensa con la propia.\n\nDios no nos ama según nuestros méritos ni según el tiempo que llevemos trabajando para Él. Su amor es gracia y regalo. El Evangelio nos invita a abandonar la comparación, la exigencia y la envidia, para aprender a alegrarnos por el bien que Dios hace en los demás.",
-      "date": "2026-09-13T08:09:16.290Z"
+      "id": "1789924247774",
+      "text": "Los Padres del Desierto daban mucha importancia a que la vida confirmara las palabras. No basta con decir «sí, Señor»; lo importante es que nuestras decisiones y acciones vayan transformando ese sí en una realidad. El primer hijo dice «no quiero», pero después entra en sí mismo, se arrepiente y va. Para los Padres, este volver sobre uno mismo es fundamental: reconocer la propia resistencia, no justificarse y tener la humildad de cambiar de dirección. Quizá este Evangelio nos invita a preguntarnos: ¿mi fe está solamente en mis palabras o se está haciendo vida en mis actos? Dios no busca una respuesta perfecta, sino un corazón humilde que, incluso después de haberse equivocado, sea capaz de volver y decir: «Señor, aquí estoy; quiero hacer tu voluntad».",
+      "date": "2026-09-20T17:10:47.774Z"
     }
   ],
   "conclusions": [],
@@ -374,10 +384,21 @@
       "emotionSummary": "",
       "spiritSummary": "",
       "archivedAt": "2026-09-13T08:04:11.863Z"
+    },
+    "2026-09-16": {
+      "keywords": [
+        "GRACIA — Dios nos da mucho más de lo que merecemos."
+      ],
+      "comments": [
+        "Los Padres del Desierto nos recuerdan que muchas veces sufrimos no por lo que tenemos, sino por compararnos con los demás. Los trabajadores de la primera hora reciben lo mismo que los últimos y sienten que han recibido menos. El problema no está en lo que han recibido, sino en mirar al otro y comparar su recompensa con la propia.\n\nDios no nos ama según nuestros méritos ni según el tiempo que llevemos trabajando para Él. Su amor es gracia y regalo. El Evangelio nos invita a abandonar la comparación, la exigencia y la envidia, para aprender a alegrarnos por el bien que Dios hace en los demás."
+      ],
+      "emotionSummary": "",
+      "spiritSummary": "",
+      "archivedAt": "2026-09-20T17:06:06.601Z"
     }
   },
   "calNotes": {},
-  "preguntaVital": "¿Con quién me estoy comparando y qué me está haciendo sentir esa comparación? // ¿Puedo aceptar que Dios me ama y me da lo que necesito, aunque su manera de actuar no coincida con lo que yo esperaba?",
+  "preguntaVital": "¿Estamos realmente haciendo la voluntad de Dios con nuestras acciones, o nos quedamos solamente en buenas palabras e intenciones?",
   "weeklyPrayer": "",
   "oracionLinks": [],
   "githubJsonUrl": "https://jcralcaraz68-cyber.github.io/Shalom/datos-shalom.json",
@@ -387,15 +408,15 @@
   "asistencia": {},
   "liturgy": {
     "gospel": {
-      "ref": "Lc 10,25-37",
-      "title": "El buen samaritano",
-      "text": "Un letrado preguntó a Jesús: «¿Qué tengo que hacer para heredar la vida eterna?» Jesús le dijo: «Amarás al Señor tu Dios con todo tu corazón y a tu prójimo como a ti mismo.» El letrado preguntó: «¿Y quién es mi prójimo?»"
+      "ref": "Mt 5,1-12",
+      "title": "Las bienaventuranzas",
+      "text": "Jesús subió al monte y enseñaba: Dichosos los pobres de espíritu, porque de ellos es el reino de los cielos. Dichosos los que lloran, porque ellos serán consolados. Dichosos los mansos, porque ellos heredarán la tierra. Dichosos los misericordiosos, porque ellos alcanzarán misericordia."
     },
     "psalm": {
-      "ref": "Sal 62",
-      "antiphon": "Mi alma está sedienta de ti, Señor.",
-      "text": "Oh Dios, tú eres mi Dios, por ti madrugo,\nmi alma está sedienta de ti."
+      "ref": "Sal 15",
+      "antiphon": "Protégeme, Dios mío, que me refugio en ti.",
+      "text": "Protégeme, Dios mío, que me refugio en ti.\nEl Señor es el lote de mi heredad."
     },
-    "sunday": "2026-09-12T22:00:00.000Z"
+    "sunday": "2026-09-19T22:00:00.000Z"
   }
 }
