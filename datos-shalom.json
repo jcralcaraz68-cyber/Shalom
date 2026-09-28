@@ -214,6 +214,24 @@
       "1789412750303": "1788892050327",
       "1789412823839": "1788892014357",
       "1789412874197": "1788891752228"
+    },
+    "2026-09-23": {
+      "1787591147398": "1787591177382",
+      "1787591177382": "1787591480296",
+      "1787591480296": "1788891788280",
+      "1787591502140": "1788892302877",
+      "1788891752228": "1788892162955",
+      "1788891788280": "1788892050327",
+      "1788891942118": "1788891752228",
+      "1788892014357": "1789412750303",
+      "1788892050327": "1789412874197",
+      "1788892119915": "1788892354711",
+      "1788892162955": "1789412823839",
+      "1788892302877": "1788892014357",
+      "1788892354711": "1787591147398",
+      "1789412750303": "1787591502140",
+      "1789412823839": "1788892119915",
+      "1789412874197": "1788891942118"
     }
   },
   "catequesisNotes": {
@@ -250,7 +268,7 @@
       ]
     },
     "2": {
-      "notas": "",
+      "notas": "Una clave\n\nEsto conecta directamente con lo que has compartido:\n\nNo tengo que conseguir que Dios me ame. Ya soy amado.\nNo tengo que fabricar la presencia de Dios. Tengo que aprender a reconocerla.\nNo tengo que demostrarle que soy digno. Tengo que dejarme encontrar por Él.\n\nY desde ahí cambia también la pregunta espiritual:\n\nNo empezar por «¿qué tengo que hacer para amar a Dios?», sino por «¿qué me impide recibir el amor que Dios ya me está dando?»\n\nEse cambio —del esfuerzo por alcanzar a Dios a la apertura para recibirlo— encaja profundamente con la espiritualidad del desierto.",
       "conclusiones": "",
       "materialLinks": [
         {
@@ -306,19 +324,19 @@
   ],
   "peticiones": [
     {
-      "id": "1790523235141",
-      "text": "Señor, danos humildad para reconocer cuando nos equivocamos y valentía para cambiar de camino.",
-      "date": "2026-09-27T15:33:55.141Z"
+      "id": "1790589469796",
+      "text": "Señor, ayúdanos a reconocer que todo lo que tenemos es un regalo tuyo, y danos un corazón agradecido y humilde.",
+      "date": "2026-09-28T09:57:49.796Z"
     },
     {
-      "id": "1790523249002",
-      "text": "Señor, ayúdanos a pasar de las palabras a los hechos, para que nuestra fe se manifieste en el amor y el servicio a los demás.",
-      "date": "2026-09-27T15:34:09.002Z"
+      "id": "1790589485720",
+      "text": "Señor, haz que nuestra comunidad sea una viña que dé frutos, donde sepamos cuidarnos, servirnos y crecer juntos en tu amor.",
+      "date": "2026-09-28T09:58:05.720Z"
     },
     {
-      "id": "1790523267048",
-      "text": "Señor, abre nuestro corazón a la conversión, para que sepamos escuchar tu voluntad y llevarla a nuestra vida.",
-      "date": "2026-09-27T15:34:27.048Z"
+      "id": "1790589504598",
+      "text": "Señor, ayúdanos a reconocer a Jesús como la piedra angular de nuestra vida, para que no construyamos sobre nuestras propias seguridades, sino sobre Ti.",
+      "date": "2026-09-28T09:58:24.598Z"
     }
   ],
   "readings": {
@@ -341,16 +359,16 @@
   },
   "keywords": [
     {
-      "id": "1790523673906",
-      "text": "\"CONVERSIÓN — tener la humildad de reconocer el error, volver a Dios y poner en práctica su voluntad.\"",
-      "date": "2026-09-27T15:41:13.906Z"
+      "id": "1790589366123",
+      "text": "FRUTOS 🍇 No basta con recibir los dones de Dios; estamos llamados a que nuestra vida produzca frutos de amor, servicio, perdón y entrega.",
+      "date": "2026-09-28T09:56:06.123Z"
     }
   ],
   "comments": [
     {
-      "id": "1790523696593",
-      "text": "Los Padres del Desierto enseñaban que la verdadera conversión comienza cuando dejamos de justificarnos y somos capaces de reconocer la verdad de nuestro corazón. El primer hijo dice «no», pero después recapacita y va a la viña; el segundo dice «sí», pero no actúa. Para ellos, no era tan importante lo que una persona decía, sino lo que hacía con aquello que Dios le mostraba. A veces nuestro «no» puede convertirse en un «sí» cuando tenemos la humildad de volver atrás. Este Evangelio nos recuerda que Dios no busca palabras perfectas, sino un corazón dispuesto a convertirse y ponerse en camino.",
-      "date": "2026-09-27T15:41:36.593Z"
+      "id": "1790589340324",
+      "text": "Los Padres del Desierto hablaban mucho de vigilar el corazón. La viña puede representar nuestra propia vida: Dios la ha cuidado, nos ha dado dones, personas, oportunidades y su Palabra. La pregunta es qué hacemos con todo lo que hemos recibido.\n\nLos labradores quieren apropiarse de la viña y olvidan que no son los dueños, sino administradores. También nosotros podemos caer en la tentación de pensar que nuestra vida, nuestros dones o incluso nuestra fe nos pertenecen.\n\nLa piedra que los constructores desechan se convierte en piedra angular. Los Padres nos invitarían a mirar aquello que rechazamos o que no entendemos y preguntarnos si precisamente ahí Dios está queriendo construir algo nuevo.\n\nLa vida cristiana no consiste en poseer la viña, sino en cuidarla y entregar sus frutos.",
+      "date": "2026-09-28T09:55:40.324Z"
     }
   ],
   "conclusions": [],
@@ -431,7 +449,7 @@
     }
   },
   "calNotes": {},
-  "preguntaVital": "¿Hay algún «no» que estoy dando a Dios, aunque exteriormente diga que quiero seguirle? // ¿Mis acciones están mostrando realmente aquello que digo creer?",
+  "preguntaVital": "¿Qué me ha confiado Dios que estoy tratando como si fuera mío y no como un regalo que debo cuidar y compartir?\n¿Qué estoy rechazando en mi vida que quizá Dios puede utilizar para construir algo nuevo en mí?",
   "weeklyPrayer": "",
   "oracionLinks": [],
   "githubJsonUrl": "https://jcralcaraz68-cyber.github.io/Shalom/datos-shalom.json",
