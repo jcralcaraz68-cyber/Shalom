@@ -154,6 +154,15 @@
       "date": "2026-09-14",
       "notes": "",
       "photo": ""
+    },
+    {
+      "id": "1790850935045",
+      "name": "María Ascensión  Castrillo Pelaez",
+      "birth": "1961-05-11",
+      "phone": "",
+      "date": "2026-10-01",
+      "notes": "",
+      "photo": ""
     }
   ],
   "chosenMemberId": "",
@@ -232,6 +241,25 @@
       "1789412750303": "1788892302877",
       "1789412823839": "1789412750303",
       "1789412874197": "1787591502140"
+    },
+    "2026-09-30": {
+      "1787591147398": "1788892302877",
+      "1787591177382": "1789412750303",
+      "1787591480296": "1788892354711",
+      "1787591502140": "1788892050327",
+      "1788891752228": "1790850935045",
+      "1788891788280": "1789412874197",
+      "1788891942118": "1788891752228",
+      "1788892014357": "1787591480296",
+      "1788892050327": "1788892162955",
+      "1788892119915": "1787591502140",
+      "1788892162955": "1788892119915",
+      "1788892302877": "1787591177382",
+      "1788892354711": "1788891942118",
+      "1789412750303": "1788892014357",
+      "1789412823839": "1787591147398",
+      "1789412874197": "1788891788280",
+      "1790850935045": "1789412823839"
     }
   },
   "catequesisNotes": {
@@ -315,60 +343,67 @@
   },
   "notes": [
     {
-      "id": "1790523210079",
-      "title": "",
-      "body": "28-09-2026 Reunión de la comunidad",
+      "id": "1791138235590",
+      "title": "Esta semana viene como invitado nuestro hermano Juan Emilio, responsable Mies",
+      "body": "",
       "link": "",
-      "date": "2026-09-27T15:33:30.079Z"
+      "date": "2026-10-04T18:23:55.590Z"
+    },
+    {
+      "id": "1791138187004",
+      "title": "Comunidad",
+      "body": "05-10-2026",
+      "link": "",
+      "date": "2026-10-04T18:23:07.004Z"
     }
   ],
   "peticiones": [
     {
-      "id": "1790589469796",
-      "text": "Señor, ayúdanos a reconocer que todo lo que tenemos es un regalo tuyo, y danos un corazón agradecido y humilde.",
-      "date": "2026-09-28T09:57:49.796Z"
+      "id": "1791138701384",
+      "text": "Señor, abre nuestros oídos y nuestro corazón para reconocer tu invitación en medio de nuestras ocupaciones y preocupaciones.",
+      "date": "2026-10-04T18:31:41.384Z"
     },
     {
-      "id": "1790589485720",
-      "text": "Señor, haz que nuestra comunidad sea una viña que dé frutos, donde sepamos cuidarnos, servirnos y crecer juntos en tu amor.",
-      "date": "2026-09-28T09:58:05.720Z"
+      "id": "1791138716467",
+      "text": "Señor, ayúdanos a vestirnos de tu amor, dejando atrás aquello que endurece nuestro corazón y nos aleja de Ti.",
+      "date": "2026-10-04T18:31:56.467Z"
     },
     {
-      "id": "1790589504598",
-      "text": "Señor, ayúdanos a reconocer a Jesús como la piedra angular de nuestra vida, para que no construyamos sobre nuestras propias seguridades, sino sobre Ti.",
-      "date": "2026-09-28T09:58:24.598Z"
+      "id": "1791138734631",
+      "text": "Señor, haz de nuestra comunidad un verdadero banquete, donde todos se sientan acogidos, queridos y llamados a caminar contigo.",
+      "date": "2026-10-04T18:32:14.631Z"
     }
   ],
   "readings": {
     "primera": {
-      "text": "Lectura del libro de Isaías 5, 1-7\nVoy a cantar a mi amigo\nel canto de mi amado por su viña.\nMi amigo tenía una viña en un fértil collado.\nLa entrecavó, quitó las piedras y plantó buenas cepas;\nconstruyó en medio una torre y cavó un lagar.\nEsperaba que diese uvas, pero dio agrazones.\nAhora, habitantes de Jerusalén, hombres de Judá,\npor favor, sed jueces entre mí y mi viña.\n¿Qué más podía hacer yo por mi viña que no hubiera hecho?\n¿Por qué, cuando yo esperaba que diera uvas, dio agrazones?\nPues os hago saber lo que haré con mi viña:\nquitar su valla y que sirva de leña,\nderruir su tapia y que sea pisoteada.\nLa convertiré en un erial: no la podarán ni la escardarán,\nallí crecerán zarzas y cardos,\nprohibiré a las nubes que lluevan sobre ella.\nLa viña del Señor del universo es la casa de Israel\ny los hombres de Judá su plantel preferido.\nEsperaba de ellos derecho, y ahí tenéis: sangre derramada;\nesperaba justicia, y ahí tenéis: lamentos.",
+      "text": "Lectura del libro de Isaías 25, 6-10a\nPreparará el Señor del universo para todos los pueblos, en este monte, un festín de manjares suculentos, un festín de vinos de solera; manjares exquisitos, vinos refinados.\nY arrancará en este monte el velo que cubre a todos los pueblos, el lienzo extendido sobre todas las naciones.\nAniquilará la muerte para siempre.\nDios, el Señor, enjugará las lágrimas de todos los rostros, y alejará del país el oprobio de su pueblo - lo ha dicho el Señor -.\nAquel día se dirá: «Aquí está nuestro Dios. Esperábamos en él y nos ha salvado. Este es el Señor en quien esperamos. Celebremos y gocemos con su salvación, porque reposará sobre este monte la mano del Señor».",
       "ref": ""
     },
     "segunda": {
-      "text": "Lectura de la carta del apóstol san Pablo a los Filipenses 4, 6-9\nHermanos:\nNada os preocupe; sino que, en toda ocasión, en la oración y en la súplica, con acción de gracias, vuestras peticiones sean presentadas a Dios.\n\nY la paz de Dios, que supera todo juicio, custodiará vuestros corazones y vuestros pensamientos en Cristo Jesús.\n\nFinalmente, hermanos, todo lo que es verdadero, noble, justo, puro, amable, laudable, todo lo que es virtud o mérito, tenedlo en cuenta.\n\nLo que aprendisteis, recibisteis, oísteis, visteis en mí, ponedlo por obra.\nY el Dios de la paz estará con vosotros.",
+      "text": "Lectura de la carta del apóstol san Pablo a los Filipenses 4, 12-14. 19-20\nHermanos:\nSé vivir en pobreza y abundancia. Estoy avezado en todo y para todo: a la hartura y al hambre, a la abundancia y a la privación. Todo lo puedo en aquel que me conforta. En todo caso, hicisteis bien en compartir mis tribulaciones.\nEn pago, mi Dios proveerá a todas vuestras necesidades con magnificencia, conforme a su riqueza en Cristo Jesús.\nA Dios, nuestro Padre, la gloria por los siglos de los siglos. Amén.",
       "ref": ""
     },
     "salmo": {
-      "text": "Salmo 79, 9 y 12. 13-14. 15-16. 19-20\n\nR/. La viña del Señor es la casa de Israel\n\nSacaste una vid de Egipto,\nexpulsaste a los gentiles, y la trasplantaste.\nExtendió sus sarmientos hasta el mar,\ny sus brotes hasta el Gran Río. R/.\n\n¿Por qué has derribado su cerca\npara que la saqueen los viandantes,\nla pisoteen los jabalíes\ny se la coman las alimañas? R/.\n\nDios del universo, vuélvete:\nmira desde el cielo, fíjate,\nven a visitar tu viña.\nCuida la cepa que tu diestra plantó.\ny al hijo del hombre que tú has fortalecido. R/.\n\nNo nos alejaremos de ti:\ndanos vida, para que invoquemos tu nombre.\nSeñor, Dios del universo, restáuranos,\nque brille tu rostro y nos salve. R/.",
+      "text": "Salmo 22, 1-3a. 3b-4. 5. 6. \n\nR/. Habitaré en la casa del Señor por años sin término\nEl Señor es mi pastor, nada me falta:\nen verdes praderas me hace recostar;\nme conduce hacia fuentes tranquilas\ny repara mis fuerzas. R/.\n\nMe guía por el sendero justo,\npor el honor de su nombre.\nAunque camine por cañadas oscuras,\nnada temo, porque tú vas conmigo:\ntu vara y tu cayado me sosiegan. R/.\n\nPreparas una mesa ante mí,\nenfrente de mis enemigos;\nme unges la cabeza con perfume,\ny mi copa rebosa. R/.\n\nTu bondad y tu misericordia me acompañan\ntodos los días de mi vida,\ny habitaré en la casa del Señor\npor años sin término. R/.",
       "ref": ""
     },
     "evangelio": {
-      "text": "Lectura del santo evangelio según san Mateo 21, 33-43\nEn aquel tiempo, dijo Jesús a los sumos sacerdotes y a los ancianos del pueblo:\n«Escuchad otra parábola: “Había un propietario que plantó una viña, la rodeó con una cerca, cavó en ella un lagar, construyó una torre, la arrendó a unos labradores y se marchó lejos. Llegado el tiempo de los frutos, envió sus criados a los labradores para percibir los frutos que le correspondían. Pero los labradores, agarrando a los criados, apalearon a uno, mataron a otro y a otro lo apedrearon.\nEnvió de nuevo otros criados, más que la primera vez, e hicieron con ellos lo mismo. Por último, les mandó a su hijo diciéndose: ‘Tendrán respeto a mi hijo’.\nPero los labradores, al ver al hijo se dijeron: ‘Este es el heredero: venid, lo matamos y nos quedamos con su herencia’.\nY agarrándolo, lo sacaron fuera de la viña y lo mataron. Cuando vuelva el dueño de la viña, ¿qué hará con aquellos labradores?».\nLe contestan:\n«Hará morir de mala muerte a esos malvados y arrendará la viña a otros labradores que le entreguen los frutos a su tiempo».\nY Jesús les dice:\n«No habéis leído nunca en la Escritura:\n“La piedra que desecharon los arquitectos\nes ahora la piedra angular.\nEs el Señor quien lo ha hecho,\nha sido un milagro patente”\nPor eso os digo que se os quitará a vosotros el reino de Dios y se dará a un pueblo que produzca sus frutos».",
+      "text": "Lectura del santo evangelio según san Mateo 22, 1-14\nEn aquel tiempo, volvió a hablar Jesús en parábolas a los sumos sacerdotes y a los ancianos del pueblo, diciendo:\n«El reino de los cielos se parece a un rey que celebraba la boda de su hijo; mandó a sus criados para que llamaran a los convidados, pero no quisieron ir. Volvió a mandar otros criados encargándoles que dijeran a los convidados:\n“Tengo preparado el banquete, he matado terneros y reses cebadas y todo está a punto. Venid a la boda”.\nPero ellos no hicieron caso; uno se marchó a sus tierras, otro a sus negocios, los demás agarraron a los criados y los maltrataron y los mataron.\nEl rey montó en cólera, envió sus tropas, que acabaron con aquellos asesinos y prendieron fuego a la ciudad.\nLuego dijo a sus criados:\n“La boda está preparada, pero los convidados no se la merecían. Id ahora a los cruces de los caminos y a todos los que encontréis, llamadlos a la boda”.\nLos criados salieron a los caminos y reunieron a todos los que encontraron, malos y buenos. La sala del banquete se llenó de comensales. Cuando el rey entró a saludar a los comensales, reparó en uno que no llevaba traje de fiesta y le dijo:\n“Amigo, ¿cómo has entrado aquí sin el vestido de boda?”.\nEl otro no abrió la boca. Entonces el rey dijo a los servidores:\n“Atadlo de pies y manos y arrojadlo fuera, a las tinieblas. Allí será el llanto y el rechinar de dientes”.\nPorque muchos son los llamados, pero pocos los elegidos».",
       "ref": ""
     }
   },
   "keywords": [
     {
-      "id": "1790589366123",
-      "text": "FRUTOS 🍇 No basta con recibir los dones de Dios; estamos llamados a que nuestra vida produzca frutos de amor, servicio, perdón y entrega.",
-      "date": "2026-09-28T09:56:06.123Z"
+      "id": "1791138637965",
+      "text": "INVITACIÓN 🕊️ Dios nos llama gratuitamente a participar de su vida y espera de nosotros una respuesta.",
+      "date": "2026-10-04T18:30:37.965Z"
     }
   ],
   "comments": [
     {
-      "id": "1790589340324",
-      "text": "Los Padres del Desierto hablaban mucho de vigilar el corazón. La viña puede representar nuestra propia vida: Dios la ha cuidado, nos ha dado dones, personas, oportunidades y su Palabra. La pregunta es qué hacemos con todo lo que hemos recibido.\n\nLos labradores quieren apropiarse de la viña y olvidan que no son los dueños, sino administradores. También nosotros podemos caer en la tentación de pensar que nuestra vida, nuestros dones o incluso nuestra fe nos pertenecen.\n\nLa piedra que los constructores desechan se convierte en piedra angular. Los Padres nos invitarían a mirar aquello que rechazamos o que no entendemos y preguntarnos si precisamente ahí Dios está queriendo construir algo nuevo.\n\nLa vida cristiana no consiste en poseer la viña, sino en cuidarla y entregar sus frutos.",
-      "date": "2026-09-28T09:55:40.324Z"
+      "id": "1791138542702",
+      "text": "Los Padres del Desierto entendían la vida espiritual como una respuesta a una llamada. Dios prepara el banquete y nos invita gratuitamente, pero podemos estar tan ocupados con nuestras tierras, nuestros negocios y nuestras preocupaciones que no escuchamos la invitación.\n\nEl «vestido de boda» puede ayudarnos a mirar el corazón: no basta con entrar en el banquete; hay que dejarse transformar por el amor recibido. Para los Padres, convertirse no era solamente cambiar algunas conductas externas, sino permitir que Cristo renovara el corazón.\n\nDios llama a todos, «malos y buenos». La cuestión no es quién se siente digno de entrar, sino quién acepta la invitación y permite que esa gracia transforme su vida.",
+      "date": "2026-10-04T18:29:02.702Z"
     }
   ],
   "conclusions": [],
@@ -446,10 +481,21 @@
       "emotionSummary": "",
       "spiritSummary": "",
       "archivedAt": "2026-09-27T15:32:45.697Z"
+    },
+    "2026-09-30": {
+      "keywords": [
+        "FRUTOS 🍇 No basta con recibir los dones de Dios; estamos llamados a que nuestra vida produzca frutos de amor, servicio, perdón y entrega."
+      ],
+      "comments": [
+        "Los Padres del Desierto hablaban mucho de vigilar el corazón. La viña puede representar nuestra propia vida: Dios la ha cuidado, nos ha dado dones, personas, oportunidades y su Palabra. La pregunta es qué hacemos con todo lo que hemos recibido.\n\nLos labradores quieren apropiarse de la viña y olvidan que no son los dueños, sino administradores. También nosotros podemos caer en la tentación de pensar que nuestra vida, nuestros dones o incluso nuestra fe nos pertenecen.\n\nLa piedra que los constructores desechan se convierte en piedra angular. Los Padres nos invitarían a mirar aquello que rechazamos o que no entendemos y preguntarnos si precisamente ahí Dios está queriendo construir algo nuevo.\n\nLa vida cristiana no consiste en poseer la viña, sino en cuidarla y entregar sus frutos."
+      ],
+      "emotionSummary": "",
+      "spiritSummary": "",
+      "archivedAt": "2026-10-04T18:24:14.408Z"
     }
   },
   "calNotes": {},
-  "preguntaVital": "¿Qué me ha confiado Dios que estoy tratando como si fuera mío y no como un regalo que debo cuidar y compartir?\n¿Qué estoy rechazando en mi vida que quizá Dios puede utilizar para construir algo nuevo en mí?",
+  "preguntaVital": "¿Qué ocupaciones, preocupaciones o seguridades están haciendo que no escuche hoy la invitación de Dios? // \n¿He aceptado la invitación de Dios solo con palabras, o estoy dejando que su amor transforme mi manera de vivir?",
   "weeklyPrayer": "",
   "oracionLinks": [],
   "githubJsonUrl": "https://jcralcaraz68-cyber.github.io/Shalom/datos-shalom.json",
@@ -459,15 +505,15 @@
   "asistencia": {},
   "liturgy": {
     "gospel": {
-      "ref": "Jn 14,1-12",
-      "title": "Yo soy el camino, la verdad y la vida",
-      "text": "Jesús dijo: «No se turbe vuestro corazón. Creéis en Dios: creed también en mí. En la casa de mi Padre hay muchas moradas. Voy a prepararos un lugar. Yo soy el camino, la verdad y la vida.»"
+      "ref": "Mc 10,46-52",
+      "title": "La curación del ciego Bartimeo",
+      "text": "El ciego Bartimeo gritó: «¡Jesús, Hijo de David, ten compasión de mí!» Jesús se paró y dijo: «Llamadle.» El ciego se acercó. Jesús le preguntó: «¿Qué quieres que haga por ti?» El ciego dijo: «Rabbuni, que vea.» Jesús le dijo: «Vete, tu fe te ha salvado.»"
     },
     "psalm": {
-      "ref": "Sal 117",
-      "antiphon": "Alabad al Señor porque es bueno.",
-      "text": "Dad gracias al Señor porque es bueno,\nporque es eterna su misericordia."
+      "ref": "Sal 22",
+      "antiphon": "El Señor es mi pastor, nada me falta.",
+      "text": "El Señor es mi pastor, nada me falta:\nen verdes praderas me hace recostar."
     },
-    "sunday": "2026-09-26T22:00:00.000Z"
+    "sunday": "2026-10-03T22:00:00.000Z"
   }
 }
