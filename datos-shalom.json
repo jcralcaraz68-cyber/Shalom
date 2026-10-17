@@ -260,6 +260,25 @@
       "1789412823839": "1787591147398",
       "1789412874197": "1788891788280",
       "1790850935045": "1789412823839"
+    },
+    "2026-10-14": {
+      "1787591147398": "1789412874197",
+      "1787591177382": "1788891752228",
+      "1787591480296": "1788892014357",
+      "1787591502140": "1789412750303",
+      "1788891752228": "1789412823839",
+      "1788891788280": "1787591480296",
+      "1788891942118": "1787591147398",
+      "1788892014357": "1788891942118",
+      "1788892050327": "1790850935045",
+      "1788892119915": "1788891788280",
+      "1788892162955": "1788892354711",
+      "1788892302877": "1787591177382",
+      "1788892354711": "1788892162955",
+      "1789412750303": "1788892119915",
+      "1789412823839": "1787591502140",
+      "1789412874197": "1788892302877",
+      "1790850935045": "1788892050327"
     }
   },
   "catequesisNotes": {
@@ -341,69 +360,54 @@
     },
     "fuerza": {}
   },
-  "notes": [
-    {
-      "id": "1791138235590",
-      "title": "Esta semana viene como invitado nuestro hermano Juan Emilio, responsable Mies",
-      "body": "",
-      "link": "",
-      "date": "2026-10-04T18:23:55.590Z"
-    },
-    {
-      "id": "1791138187004",
-      "title": "Comunidad",
-      "body": "05-10-2026",
-      "link": "",
-      "date": "2026-10-04T18:23:07.004Z"
-    }
-  ],
+  "notes": [],
   "peticiones": [
     {
-      "id": "1791138701384",
-      "text": "Señor, abre nuestros oídos y nuestro corazón para reconocer tu invitación en medio de nuestras ocupaciones y preocupaciones.",
-      "date": "2026-10-04T18:31:41.384Z"
+      "id": "1792235833358",
+      "text": "Señor, enséñame a amarte con todo mi corazón, no solo con mis palabras y mis obras, sino también confiando en Ti en medio de mis miedos y debilidades.",
+      "date": "2026-10-17T11:17:13.358Z"
     },
     {
-      "id": "1791138716467",
-      "text": "Señor, ayúdanos a vestirnos de tu amor, dejando atrás aquello que endurece nuestro corazón y nos aleja de Ti.",
-      "date": "2026-10-04T18:31:56.467Z"
+      "id": "1792235868211",
+      "text": "Jesús, transforma mi manera de amar al prójimo. Líbrame del juicio, de la indiferencia y de la búsqueda de reconocimiento. Enséñame a amar con humildad, libertad y misericordia.",
+      "date": "2026-10-17T11:17:48.211Z"
     },
     {
-      "id": "1791138734631",
-      "text": "Señor, haz de nuestra comunidad un verdadero banquete, donde todos se sientan acogidos, queridos y llamados a caminar contigo.",
-      "date": "2026-10-04T18:32:14.631Z"
+      "id": "1792235885745",
+      "text": "Espíritu Santo, enséñame a vivir el amor sin exigirme ser perfecto. Ayúdame a reconocer mis límites, a tratarme con paciencia y a recordar que el camino hacia el amor comienza dejándome amar por Dios.",
+      "date": "2026-10-17T11:18:05.745Z"
     }
   ],
   "readings": {
     "primera": {
-      "text": "Lectura del libro de Isaías 25, 6-10a\nPreparará el Señor del universo para todos los pueblos, en este monte, un festín de manjares suculentos, un festín de vinos de solera; manjares exquisitos, vinos refinados.\nY arrancará en este monte el velo que cubre a todos los pueblos, el lienzo extendido sobre todas las naciones.\nAniquilará la muerte para siempre.\nDios, el Señor, enjugará las lágrimas de todos los rostros, y alejará del país el oprobio de su pueblo - lo ha dicho el Señor -.\nAquel día se dirá: «Aquí está nuestro Dios. Esperábamos en él y nos ha salvado. Este es el Señor en quien esperamos. Celebremos y gocemos con su salvación, porque reposará sobre este monte la mano del Señor».",
+      "text": "Lectura del libro del Éxodo 22, 20-26\nEsto dice el Señor:\n«No maltratarás ni oprimirás al emigrante, pues emigrantes fuisteis vosotros en la tierra de Egipto.\nNo explotarás a viudas ni a huérfanos. Si los explotas y gritan a mí, yo escucharé su clamor, se encenderá mi ira y os mataré a espada; vuestras mujeres quedarán viudas y vuestros hijos huérfanos.\nSi prestas dinero a alguien de mi pueblo, a un pobre que habita contigo, no serás con él un usurero cargándole intereses.\nSi tomas en prenda el manto de tu prójimo, se lo devolverás antes de ponerse el sol, porque no tiene otro vestido para cubrir su cuerpo, ¿y dónde, si no, se va a acostar? Si grita a mí, yo lo escucharé, porque yo soy compasivo».",
       "ref": ""
     },
     "segunda": {
-      "text": "Lectura de la carta del apóstol san Pablo a los Filipenses 4, 12-14. 19-20\nHermanos:\nSé vivir en pobreza y abundancia. Estoy avezado en todo y para todo: a la hartura y al hambre, a la abundancia y a la privación. Todo lo puedo en aquel que me conforta. En todo caso, hicisteis bien en compartir mis tribulaciones.\nEn pago, mi Dios proveerá a todas vuestras necesidades con magnificencia, conforme a su riqueza en Cristo Jesús.\nA Dios, nuestro Padre, la gloria por los siglos de los siglos. Amén.",
+      "text": "Segunda lectura\nLectura de la primera carta del apóstol san Pablo a los Tesalonicenses 1, 5c-10\nHermanos:\nSabéis cómo nos comportamos entre vosotros para vuestro bien. Y vosotros seguisteis nuestro ejemplo y el del Señor, acogiendo la Palabra en medio de una gran tribulación, con la alegría del Espíritu Santo. Así llegasteis a ser un modelo para todos los creyentes de Macedonia y de Acaya.\nNo solo ha resonado la palabra del Señor en Macedonia y en Acaya desde vuestra comunidad, sino que además vuestra fe en Dios se ha difundido por doquier, de modo que nosotros no teníamos necesidad de explicar nada, ya que ellos mismos cuentan los detalles de la visita que os hicimos: cómo os convertisteis a Dios, abandonando los ídolos, para servir al Dios vivo y verdadero, y vivir aguardando la vuelta de su Hijo Jesús desde el cielo, a quien ha resucitado de entre los muertos y que nos libra del castigo futuro.",
       "ref": ""
     },
     "salmo": {
-      "text": "Salmo 22, 1-3a. 3b-4. 5. 6. \n\nR/. Habitaré en la casa del Señor por años sin término\nEl Señor es mi pastor, nada me falta:\nen verdes praderas me hace recostar;\nme conduce hacia fuentes tranquilas\ny repara mis fuerzas. R/.\n\nMe guía por el sendero justo,\npor el honor de su nombre.\nAunque camine por cañadas oscuras,\nnada temo, porque tú vas conmigo:\ntu vara y tu cayado me sosiegan. R/.\n\nPreparas una mesa ante mí,\nenfrente de mis enemigos;\nme unges la cabeza con perfume,\ny mi copa rebosa. R/.\n\nTu bondad y tu misericordia me acompañan\ntodos los días de mi vida,\ny habitaré en la casa del Señor\npor años sin término. R/.",
+      "text": "Salmo 17, 2-3a. 3bc-4. 47 y 51ab \n\nR/. Yo te amo, Señor; tú eres mi fortaleza.\n\nYo te amo, Señor; tú eres mi fortaleza;\nSeñor, mi roca, mi alcázar, mi libertador. R/.\n\nDios mío, peña mía, refugio mío,\nescudo mío, mi fuerza salvadora, mi baluarte.\nInvoco al Señor de mi alabanza\ny quedo libre de mis enemigos. R/.\n\nViva el Señor, bendita sea mi Roca,\nsea ensalzado mi Dios y Salvador.\nTú diste gran victoria a tu rey,\ntuviste misericordia de tu ungido. R/.",
       "ref": ""
     },
     "evangelio": {
-      "text": "Lectura del santo evangelio según san Mateo 22, 1-14\nEn aquel tiempo, volvió a hablar Jesús en parábolas a los sumos sacerdotes y a los ancianos del pueblo, diciendo:\n«El reino de los cielos se parece a un rey que celebraba la boda de su hijo; mandó a sus criados para que llamaran a los convidados, pero no quisieron ir. Volvió a mandar otros criados encargándoles que dijeran a los convidados:\n“Tengo preparado el banquete, he matado terneros y reses cebadas y todo está a punto. Venid a la boda”.\nPero ellos no hicieron caso; uno se marchó a sus tierras, otro a sus negocios, los demás agarraron a los criados y los maltrataron y los mataron.\nEl rey montó en cólera, envió sus tropas, que acabaron con aquellos asesinos y prendieron fuego a la ciudad.\nLuego dijo a sus criados:\n“La boda está preparada, pero los convidados no se la merecían. Id ahora a los cruces de los caminos y a todos los que encontréis, llamadlos a la boda”.\nLos criados salieron a los caminos y reunieron a todos los que encontraron, malos y buenos. La sala del banquete se llenó de comensales. Cuando el rey entró a saludar a los comensales, reparó en uno que no llevaba traje de fiesta y le dijo:\n“Amigo, ¿cómo has entrado aquí sin el vestido de boda?”.\nEl otro no abrió la boca. Entonces el rey dijo a los servidores:\n“Atadlo de pies y manos y arrojadlo fuera, a las tinieblas. Allí será el llanto y el rechinar de dientes”.\nPorque muchos son los llamados, pero pocos los elegidos».",
+      "text": "Evangelio del día\nLectura del santo evangelio según san Mateo 22, 34-40\nEn aquel tiempo, los fariseos, al oír que Jesús había hecho callar a los saduceos, se reunieron en un lugar y uno de ellos, un doctor de la ley, le preguntó para ponerlo a\nprueba:\n«Maestro, ¿cuál es el mandamiento principal de la ley?».\nÉl le dijo:\n«“Amarás al Señor tu Dios con todo tu corazón, con toda tu alma, con toda tu mente”.\nEste mandamiento es el principal y primero. El segundo es semejante a él:\n“Amarás a tu prójimo como a ti mismo”.\nEn estos dos mandamientos se sostienen toda la Ley y los Profetas».",
       "ref": ""
     }
   },
   "keywords": [
     {
-      "id": "1791138637965",
-      "text": "INVITACIÓN 🕊️ Dios nos llama gratuitamente a participar de su vida y espera de nosotros una respuesta.",
-      "date": "2026-10-04T18:30:37.965Z"
+      "id": "1792235794764",
+      "text": "AMOR El amor es el centro y la medida de la vida cristiana. No se trata únicamente de sentir amor, sino de aprender a vivir desde él: acercarme a Dios con confianza, mirar al prójimo con misericordia y tratarme a mí mismo sin desprecio ni exigencias desmedidas.",
+      "date": "2026-10-17T11:16:34.764Z"
     }
   ],
   "comments": [
     {
-      "id": "1791138542702",
-      "text": "Los Padres del Desierto entendían la vida espiritual como una respuesta a una llamada. Dios prepara el banquete y nos invita gratuitamente, pero podemos estar tan ocupados con nuestras tierras, nuestros negocios y nuestras preocupaciones que no escuchamos la invitación.\n\nEl «vestido de boda» puede ayudarnos a mirar el corazón: no basta con entrar en el banquete; hay que dejarse transformar por el amor recibido. Para los Padres, convertirse no era solamente cambiar algunas conductas externas, sino permitir que Cristo renovara el corazón.\n\nDios llama a todos, «malos y buenos». La cuestión no es quién se siente digno de entrar, sino quién acepta la invitación y permite que esa gracia transforme su vida.",
-      "date": "2026-10-04T18:29:02.702Z"
+      "id": "1792235759034",
+      "text": "Los fariseos preguntan a Jesús cuál es el mandamiento principal. Jesús responde que toda la Ley y los Profetas se sostienen en el amor a Dios y al prójimo.\nLos Padres del Desierto nos enseñan que la vida espiritual no consiste solamente en cumplir normas, rezar mucho o conocer las cosas de Dios. Consiste en dejar que Dios transforme nuestro corazón para aprender a amar de verdad.\nAbba Antonio, uno de los grandes padres del desierto, nos recuerda con su vida que la búsqueda de Dios exige sinceridad, vigilancia interior y conversión. No basta con hacer cosas buenas exteriormente: necesitamos mirar qué mueve nuestras acciones por dentro.\nPodemos ayudar a alguien, cumplir nuestras obligaciones o dedicar tiempo a la oración, pero hacerlo desde el miedo, la necesidad de aprobación o la exigencia de sentirnos suficientes. Jesús nos invita a ir más allá: a amar porque hemos descubierto que somos amados por Dios.\nY hay un detalle importante: Jesús une el amor a Dios con el amor al prójimo, pero también dice que debemos amar al prójimo como a nosotros mismos. No se trata de despreciarnos, exigirnos hasta agotarnos ni olvidar nuestros límites. Tampoco de ponernos por encima de los demás. Se trata de reconocer que nuestra vida también merece cuidado, paciencia y misericordia.\nLos Padres del Desierto prestaban mucha atención a los pensamientos que nacen en el corazón. Nos invitan a observar si actuamos movidos por el amor o por el temor, sin condenarnos por descubrir nuestras contradicciones.\nQuizá hoy la pregunta no sea cuánto hago por Dios, sino si permito que su amor llegue a mi interior y transforme mi manera de tratarme y de tratar a los demás.\nAmar a Dios con todo el corazón es dejar de vivir divididos entre lo que creemos y lo que tememos, y aprender a confiar cada vez más en Él.",
+      "date": "2026-10-17T11:15:59.034Z"
     }
   ],
   "conclusions": [],
@@ -492,10 +496,21 @@
       "emotionSummary": "",
       "spiritSummary": "",
       "archivedAt": "2026-10-04T18:24:14.408Z"
+    },
+    "2026-10-14": {
+      "keywords": [
+        "INVITACIÓN 🕊️ Dios nos llama gratuitamente a participar de su vida y espera de nosotros una respuesta."
+      ],
+      "comments": [
+        "Los Padres del Desierto entendían la vida espiritual como una respuesta a una llamada. Dios prepara el banquete y nos invita gratuitamente, pero podemos estar tan ocupados con nuestras tierras, nuestros negocios y nuestras preocupaciones que no escuchamos la invitación.\n\nEl «vestido de boda» puede ayudarnos a mirar el corazón: no basta con entrar en el banquete; hay que dejarse transformar por el amor recibido. Para los Padres, convertirse no era solamente cambiar algunas conductas externas, sino permitir que Cristo renovara el corazón.\n\nDios llama a todos, «malos y buenos». La cuestión no es quién se siente digno de entrar, sino quién acepta la invitación y permite que esa gracia transforme su vida."
+      ],
+      "emotionSummary": "",
+      "spiritSummary": "",
+      "archivedAt": "2026-10-17T11:09:00.172Z"
     }
   },
   "calNotes": {},
-  "preguntaVital": "¿Qué ocupaciones, preocupaciones o seguridades están haciendo que no escuche hoy la invitación de Dios? // \n¿He aceptado la invitación de Dios solo con palabras, o estoy dejando que su amor transforme mi manera de vivir?",
+  "preguntaVital": "",
   "weeklyPrayer": "",
   "oracionLinks": [],
   "githubJsonUrl": "https://jcralcaraz68-cyber.github.io/Shalom/datos-shalom.json",
@@ -505,15 +520,15 @@
   "asistencia": {},
   "liturgy": {
     "gospel": {
-      "ref": "Mc 10,46-52",
-      "title": "La curación del ciego Bartimeo",
-      "text": "El ciego Bartimeo gritó: «¡Jesús, Hijo de David, ten compasión de mí!» Jesús se paró y dijo: «Llamadle.» El ciego se acercó. Jesús le preguntó: «¿Qué quieres que haga por ti?» El ciego dijo: «Rabbuni, que vea.» Jesús le dijo: «Vete, tu fe te ha salvado.»"
+      "ref": "Mc 1,14-20",
+      "title": "La llamada de los primeros discípulos",
+      "text": "Jesús fue a Galilea a proclamar el Evangelio de Dios. Decía: «Se ha cumplido el plazo, el reino de Dios está cerca; convertíos y creed en el Evangelio.» Pasando junto al lago vio a Simón y a Andrés echando las redes. Les dijo: «Venid detrás de mí, y os haré pescadores de hombres.» Inmediatamente dejaron las redes y lo siguieron."
     },
     "psalm": {
-      "ref": "Sal 22",
-      "antiphon": "El Señor es mi pastor, nada me falta.",
-      "text": "El Señor es mi pastor, nada me falta:\nen verdes praderas me hace recostar."
+      "ref": "Sal 62",
+      "antiphon": "Mi alma está sedienta de ti, Señor.",
+      "text": "Oh Dios, tú eres mi Dios, por ti madrugo,\nmi alma está sedienta de ti."
     },
-    "sunday": "2026-10-03T22:00:00.000Z"
+    "sunday": "2026-10-17T22:00:00.000Z"
   }
 }
